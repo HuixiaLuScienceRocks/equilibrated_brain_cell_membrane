@@ -17,7 +17,7 @@ Force Filed: Charmm36m
 
 * Composition:
 
-   | Upper leaflet         |Lower leaflet  |   cHARGE  |
+   | Upper leaflet         |Lower leaflet  |   Charge  |
   | ------------- | ------------- | ------------- |
    | 19 GLPA               | 0  |  0 |
    | 0                     | 29 POPS |  -1 |
