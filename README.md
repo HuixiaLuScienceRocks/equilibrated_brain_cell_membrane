@@ -25,6 +25,8 @@ Force Filed: Charmm36m
    | 22 POPE               | 43 POPE | 0 |
    | 48 DPPC               | 27 DPPC | 0 |
    | 89 CHOL               | 89 CHOL | 0 |
+   | Total lipids               | 400 |  |
+
 
 ![Chemical structure of lipids of BCM](https://github.com/HuixiaLuScienceRocks/equilibrated_brain_cell_membrane/blob/main/FIG-LIPIDS.png)
 
