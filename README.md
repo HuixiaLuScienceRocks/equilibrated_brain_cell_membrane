@@ -17,13 +17,14 @@ Force Filed: Charmm36m
 
 * Composition:
 
-   | Upper leaflet         |Lower leaflet 
-   | 19 GLPA               | 0  
-   | 0                     | 29 POPS
-   | 22 SSM                | 12 SSM
-   | 22 POPE               | 43 POPE
-   | 48 DPPC               | 27 DPPC
-   | 89 CHOL               | 89 CHOL
+   | Upper leaflet         |Lower leaflet  |
+  | ------------- | ------------- |
+   | 19 GLPA               | 0  |
+   | 0                     | 29 POPS |
+   | 22 SSM                | 12 SSM |
+   | 22 POPE               | 43 POPE |
+   | 48 DPPC               | 27 DPPC |
+   | 89 CHOL               | 89 CHOL |
 
 
 
