@@ -26,9 +26,9 @@ Force Filed: Charmm36m
    | 48 DPPC               | 27 DPPC |
    | 89 CHOL               | 89 CHOL |
 
-![Chemical structure of lipids of BCM]([[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png]([https://github.com/HuixiaLuScienceRocks/equilibrated_brain_cell_membrane/blob/main/FIG-LIPIDS.png](https://github.com/HuixiaLuScienceRocks/equilibrated_brain_cell_membrane/blob/main/FIG-LIPIDS.png))]([https://github.com/HuixiaLuScienceRocks/Poster-Thessaloniki/blob/main/FAR_binds_into_SII.gif](https://github.com/HuixiaLuScienceRocks/equilibrated_brain_cell_membrane/blob/main/FIG-LIPIDS.png
-)))
+![Chemical structure of lipids of BCM](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+## 2x8mer dimer:
 For details on the interactions between the FDA-approved drug Temozolomide and BCM, please refer to this source:
 
 #### Ge, Yanhong, Huixia Lu, and Jordi Martí. "Influence of local ordering in the permeation of Temozolomide through the brain plasmatic membrane." Biophysical chemistry (2025): 107457.
