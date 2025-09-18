@@ -4,12 +4,12 @@
 
 ### The reason is that in VMD, the GLPA lipid’s resname appears as CER160, whereas in the corresponding PDB file it is written simply as CER1. As a result, when using VMD’s Merge Structures module, the program cannot correctly process these lipids and will place all GLPA lipid atoms at the origin (0.00 0.00 0.00).
 
-The BCM is equilibrated at 310 K and 100 ns of production runs after a series of equilibration runs.
+The BCM is equilibrated at 300 K and 100 ns of production runs after a series of equilibration runs.
 The file production_100ns.pdb contains the system’s coordinates after completing a 100 ns production run.
 
 Number of lipids: 400
 
-Temperature: 310 K
+Temperature: 300 K
 
 Equilibration: 100 ns of production runs after a series of equilibration runs
 
