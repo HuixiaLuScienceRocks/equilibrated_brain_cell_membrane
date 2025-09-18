@@ -4,8 +4,28 @@
 
 ### The reason is that in VMD, the GLPA lipid’s resname appears as CER160, whereas in the corresponding PDB file it is written simply as CER1. As a result, when using VMD’s Merge Structures module, the program cannot correctly process these lipids and will place all GLPA lipid atoms at the origin (0.00 0.00 0.00).
 
-And BCM is equilibrated at 310 K and 100 ns of production runs after a series of equilibration runs.
+The BCM is equilibrated at 310 K and 100 ns of production runs after a series of equilibration runs.
 The file production_100ns.pdb contains the system’s coordinates after completing a 100 ns production run.
-The composition of BCM provided here, please check this reference:
 
+Number of lipids: 400
+
+Temperature: 310 K
+
+Equilibration: 100 ns of production runs after a series of equilibration runs
+
+Force Filed: Charmm36m
+
+Composition:
+
+Upper leaflet           Lower leaflet
+19 GLPA                 0
+0                       29 POPS
+22 SSM                  12 SSM
+22 POPE                 43 POPE
+48 DPPC                 27 DPPC
+89 CHOL                 89 CHOL
+
+
+
+The composition of BCM provided here, please check this reference:
 #### Ge, Yanhong, Huixia Lu, and Jordi Martí. "Influence of local ordering in the permeation of Temozolomide through the brain plasmatic membrane." Biophysical chemistry (2025): 107457.
